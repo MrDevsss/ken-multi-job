@@ -392,3 +392,10 @@ RegisterCommand('checkjobs', function(source, args, rawCommand)
         end
     end)
 end, false)
+
+
+print('^2========================================^7')
+print('^2[Multi Job]^7 Report System Loaded')
+print('^2Created by:^7 Ken Mondragon')
+print('^2Version:^7 1.0.0')
+print('^2========================================^7')
