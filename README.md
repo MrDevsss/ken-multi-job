@@ -1,0 +1,1 @@
+ESX dual-job script with OX Lib context menus. No NUI needed - clean native-style interface for job switching, admin controls via dialogs, persistent database storage, and full ESX compatibility. Lightweight and performant.
