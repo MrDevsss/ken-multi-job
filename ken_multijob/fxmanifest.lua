@@ -3,7 +3,7 @@ game 'gta5'
 
 author 'Ken Mondragon | https://discord.gg/saNy47Db2y '
 description 'ESX Multi-Job System'
-version '2.1.0'
+version '1.0.0'
 
 lua54 'yes'
 
